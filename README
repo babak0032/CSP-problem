@@ -1,0 +1,3 @@
+The aim of this assignment is to familiarise you with Constraint Satisfaction Problems (CSPs) and the basic
+algorithms that are used to solve them. You will implement, use and evaluate CSPs and their algorithms using
+Haskell.
