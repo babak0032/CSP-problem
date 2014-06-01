@@ -1,0 +1,5 @@
+The aim of this assignment is to familiarise you with Constraint Satisfaction Problems (CSPs) and the basic
+algorithms that are used to solve them. You will implement, use and evaluate CSPs and their algorithms using
+Haskell.
+You should download the following le from the Inf2D web page:
+http://www.inf.ed.ac.uk/teaching/courses/inf2d/coursework/Inf2dAssignment1.tar.gz
